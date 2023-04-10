@@ -1,0 +1,9 @@
+{
+  "concurrent_downloads": 4,
+  "download_attempts": 3,
+  "urls": [
+    "<http://example.com/file1.txt>",
+    "<http://example.com/file2.txt>",
+    "<http://example.com/file3.txt>"
+  ]
+}
